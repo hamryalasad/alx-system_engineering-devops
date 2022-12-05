@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(0o)'
+echo -e "\U0001F615"
